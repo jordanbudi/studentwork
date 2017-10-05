@@ -21,3 +21,21 @@ body {
 .pagination {
   margin-bottom: 30px;
 }
+
+.links{
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 15px;
+}
+
+.p-links{
+  margin: 20px;
+  margin-bottom: 20px;
+  text-decoration: underline;
+  color: blue;
+}
+
+.instructions{
+  font-size: .75em;
+  text-decoration: underline;
+}
